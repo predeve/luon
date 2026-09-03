@@ -45,7 +45,14 @@ so the report and any sensitive details remain private until a fix is ready.
 
 - [Luon website](https://www.luon.dev)
 - [Documentation](https://docs.luon.dev)
-- [Developer packages](https://github.com/predeve/luon-packages)
+- [`@luon/view`](https://github.com/predeve/luon-view) — TSX View language
+- [`@luon/ui`](https://github.com/predeve/luon-ui) — native View components
+- [`@luon/rule`](https://github.com/predeve/luon-rule) — formats and schema rules
+- [`@luon/act`](https://github.com/predeve/luon-act) — reactive DOM renderer
+- [`@luon/style`](https://github.com/predeve/luon-style) — scoped style rules
+- [`@luon/runtime`](https://github.com/predeve/luon-runtime) — Site runtime
+- [`@luon/cli`](https://github.com/predeve/luon-cli) — development CLI
+- [All developer packages](https://github.com/predeve/luon-packages)
 - [Official Templates](https://github.com/predeve/luon-templates)
 - [WebView source and releases](https://github.com/predeve/luon-webview)
 - [Package registry](https://pkg.luon.dev)
