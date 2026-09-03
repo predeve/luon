@@ -1,7 +1,7 @@
 # Luon
 
 This is the official community and issue tracker for
-[Luon](https://www.luon.dev), a lightweight full-stack platform for building
+[https://luon.dev](https://www.luon.dev), a lightweight full-stack platform for building
 and running Sites with View and CLI.
 
 Use this repository to report problems, request features, improve
